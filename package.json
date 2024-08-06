@@ -4,7 +4,7 @@
   "description": "(javascript development)",
   "main": "index.js",
   "scripts": {
-    "test": "tsc -v"
+    "dev:server": "tsnd src/server/server.ts"
   },
   "repository": {
     "type": "git",
